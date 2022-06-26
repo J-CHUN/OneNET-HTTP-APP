@@ -1,0 +1,2 @@
+# OneNET-HTTP-APP
+本案例主要是实现使用自制的手机APP对OneNET云平台上的数据查看和下发命令控制单片机上的小灯（PC13）亮灭，使用的HTTP协议接入OneNET,APP开发使用的是E4A中文安卓编程。
